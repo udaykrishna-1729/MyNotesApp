@@ -97,7 +97,7 @@ class GameViewModel(application: Application) : AndroidViewModel(application) {
             val currentScore = _uiState.value.score + points + placePoints
             
             // Remove the played piece
-            val remainingPieces = _uiState.value.availablePieces.filter { it.id  != piece.id || it.colorIndex!=piece.colorIndex  }
+            val remainingPieces = _uiState.value.availablePieces.filter { it.id != piece.id }
             
             // If all pieces played, generate new ones
             val finalPieces = if (remainingPieces.isEmpty()) {
