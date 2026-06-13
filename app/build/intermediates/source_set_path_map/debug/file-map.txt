@@ -1,0 +1,51 @@
+com.example.puzzlegame.app-activity-compose-1.8.2-0 C:\Users\UDAY\.gradle\caches\8.9\transforms\05d2e26bfc05494b22f17da7b4baf654\transformed\activity-compose-1.8.2\res
+com.example.puzzlegame.app-ui-util-release-1 C:\Users\UDAY\.gradle\caches\8.9\transforms\073b3d844617eee044c8c8b55c43770c\transformed\ui-util-release\res
+com.example.puzzlegame.app-lifecycle-runtime-2.6.2-2 C:\Users\UDAY\.gradle\caches\8.9\transforms\09018b07a5bf839f1470ada23720de20\transformed\lifecycle-runtime-2.6.2\res
+com.example.puzzlegame.app-ui-release-3 C:\Users\UDAY\.gradle\caches\8.9\transforms\26b9f1c9c8dc7a4e6b9033a9babcb575\transformed\ui-release\res
+com.example.puzzlegame.app-lifecycle-viewmodel-compose-2.6.2-4 C:\Users\UDAY\.gradle\caches\8.9\transforms\2957cd7d26eef5751e4af053bb186dee\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.example.puzzlegame.app-profileinstaller-1.3.0-5 C:\Users\UDAY\.gradle\caches\8.9\transforms\2bb26e24a4349044d28459ce0a38b678\transformed\profileinstaller-1.3.0\res
+com.example.puzzlegame.app-customview-poolingcontainer-1.0.0-6 C:\Users\UDAY\.gradle\caches\8.9\transforms\2dcbe88f14ab0c46c029f76f448c509c\transformed\customview-poolingcontainer-1.0.0\res
+com.example.puzzlegame.app-ui-graphics-release-7 C:\Users\UDAY\.gradle\caches\8.9\transforms\31a9e58368b501869f206190eb436e2d\transformed\ui-graphics-release\res
+com.example.puzzlegame.app-core-runtime-2.2.0-8 C:\Users\UDAY\.gradle\caches\8.9\transforms\383f0bab7cfa72e2771f7e2ff3eba893\transformed\core-runtime-2.2.0\res
+com.example.puzzlegame.app-ui-tooling-release-9 C:\Users\UDAY\.gradle\caches\8.9\transforms\384fc162a3daedbc9ad676604945cf70\transformed\ui-tooling-release\res
+com.example.puzzlegame.app-lifecycle-process-2.6.2-10 C:\Users\UDAY\.gradle\caches\8.9\transforms\4625f346ee7117f2967cb00aae1a58c0\transformed\lifecycle-process-2.6.2\res
+com.example.puzzlegame.app-lifecycle-viewmodel-ktx-2.6.2-11 C:\Users\UDAY\.gradle\caches\8.9\transforms\4dc21cb729bb75fb748e0fa641ff4b64\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.puzzlegame.app-ui-tooling-preview-release-12 C:\Users\UDAY\.gradle\caches\8.9\transforms\53a7a46676c52cadb86c28b026b93c79\transformed\ui-tooling-preview-release\res
+com.example.puzzlegame.app-foundation-release-13 C:\Users\UDAY\.gradle\caches\8.9\transforms\5786e1f2f86563d45412c3c03c50e3bd\transformed\foundation-release\res
+com.example.puzzlegame.app-runtime-release-14 C:\Users\UDAY\.gradle\caches\8.9\transforms\660e816b2734a3912bbc0136a1583f75\transformed\runtime-release\res
+com.example.puzzlegame.app-runtime-saveable-release-15 C:\Users\UDAY\.gradle\caches\8.9\transforms\6b4de8380c11393bd75d5f92a56a1284\transformed\runtime-saveable-release\res
+com.example.puzzlegame.app-annotation-experimental-1.3.0-16 C:\Users\UDAY\.gradle\caches\8.9\transforms\74d60f38522faf79a6cc0256f986f35d\transformed\annotation-experimental-1.3.0\res
+com.example.puzzlegame.app-lifecycle-viewmodel-2.6.2-17 C:\Users\UDAY\.gradle\caches\8.9\transforms\75344bdb571d9274b60c59b257bf100c\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.puzzlegame.app-lifecycle-viewmodel-savedstate-2.6.2-18 C:\Users\UDAY\.gradle\caches\8.9\transforms\7729c2438bfb565820226477f9ed4bf0\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.puzzlegame.app-savedstate-ktx-1.2.1-19 C:\Users\UDAY\.gradle\caches\8.9\transforms\82dde918fd2d78a33e7edb91fd191201\transformed\savedstate-ktx-1.2.1\res
+com.example.puzzlegame.app-core-1.12.0-20 C:\Users\UDAY\.gradle\caches\8.9\transforms\89b6110ace10aad0cf442adbe1c6a85b\transformed\core-1.12.0\res
+com.example.puzzlegame.app-emoji2-1.4.0-21 C:\Users\UDAY\.gradle\caches\8.9\transforms\8ad3166fd2c8d7cc1af62ea081b64329\transformed\emoji2-1.4.0\res
+com.example.puzzlegame.app-activity-1.8.2-22 C:\Users\UDAY\.gradle\caches\8.9\transforms\8b57c37f64b4218c10f330c40e1210f6\transformed\activity-1.8.2\res
+com.example.puzzlegame.app-sqlite-2.4.0-23 C:\Users\UDAY\.gradle\caches\8.9\transforms\8ca254eb0dcb1e1ccff8c120786583ec\transformed\sqlite-2.4.0\res
+com.example.puzzlegame.app-animation-core-release-24 C:\Users\UDAY\.gradle\caches\8.9\transforms\90914e7aa2871989bb8514437948d404\transformed\animation-core-release\res
+com.example.puzzlegame.app-startup-runtime-1.1.1-25 C:\Users\UDAY\.gradle\caches\8.9\transforms\94505403a785d51680234ec80898d8b5\transformed\startup-runtime-1.1.1\res
+com.example.puzzlegame.app-activity-ktx-1.8.2-26 C:\Users\UDAY\.gradle\caches\8.9\transforms\a24560dfc181698a9fafe18128efb638\transformed\activity-ktx-1.8.2\res
+com.example.puzzlegame.app-ui-geometry-release-27 C:\Users\UDAY\.gradle\caches\8.9\transforms\a4e77877597a45cb1ee1a2c72be68f10\transformed\ui-geometry-release\res
+com.example.puzzlegame.app-material-icons-core-release-28 C:\Users\UDAY\.gradle\caches\8.9\transforms\a5736b6c5c7b42ecd768907af605cc19\transformed\material-icons-core-release\res
+com.example.puzzlegame.app-material-release-29 C:\Users\UDAY\.gradle\caches\8.9\transforms\a6b281403cd043e32a6082c5e70876be\transformed\material-release\res
+com.example.puzzlegame.app-core-ktx-1.12.0-30 C:\Users\UDAY\.gradle\caches\8.9\transforms\aa1f1511e485972fe78f874d800048a8\transformed\core-ktx-1.12.0\res
+com.example.puzzlegame.app-lifecycle-livedata-core-2.6.2-31 C:\Users\UDAY\.gradle\caches\8.9\transforms\af2ac8e403e2bf0e1789ed72dba9ceaf\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.puzzlegame.app-ui-text-release-32 C:\Users\UDAY\.gradle\caches\8.9\transforms\b420d687ebe421c63038faae21288540\transformed\ui-text-release\res
+com.example.puzzlegame.app-savedstate-1.2.1-33 C:\Users\UDAY\.gradle\caches\8.9\transforms\b57b5e2994e10fecca1ff6ca76d92324\transformed\savedstate-1.2.1\res
+com.example.puzzlegame.app-room-runtime-2.6.1-34 C:\Users\UDAY\.gradle\caches\8.9\transforms\b91593fa08b92eb626644049700d53cf\transformed\room-runtime-2.6.1\res
+com.example.puzzlegame.app-material3-1.1.2-35 C:\Users\UDAY\.gradle\caches\8.9\transforms\b99d3451f4c083f6c58d9efeb78e1501\transformed\material3-1.1.2\res
+com.example.puzzlegame.app-sqlite-framework-2.4.0-36 C:\Users\UDAY\.gradle\caches\8.9\transforms\bbf5e2253426e7c1e97a62831f8a6b27\transformed\sqlite-framework-2.4.0\res
+com.example.puzzlegame.app-material-ripple-release-37 C:\Users\UDAY\.gradle\caches\8.9\transforms\c48536609d30daa8aaa5f585e73f4fa7\transformed\material-ripple-release\res
+com.example.puzzlegame.app-ui-tooling-data-release-38 C:\Users\UDAY\.gradle\caches\8.9\transforms\c6526f8d7127414bc2cd60e39f4aa814\transformed\ui-tooling-data-release\res
+com.example.puzzlegame.app-lifecycle-runtime-ktx-2.6.2-39 C:\Users\UDAY\.gradle\caches\8.9\transforms\d6f7e62e945e5d306068582e9dfe5975\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.puzzlegame.app-animation-release-40 C:\Users\UDAY\.gradle\caches\8.9\transforms\e867589f17c747b36d16a39cc18f8203\transformed\animation-release\res
+com.example.puzzlegame.app-room-ktx-2.6.1-41 C:\Users\UDAY\.gradle\caches\8.9\transforms\ea26641c69033bd2d05cf852f625375c\transformed\room-ktx-2.6.1\res
+com.example.puzzlegame.app-ui-test-manifest-1.5.4-42 C:\Users\UDAY\.gradle\caches\8.9\transforms\f6c6aafb20f525af6fc38729bd69d23c\transformed\ui-test-manifest-1.5.4\res
+com.example.puzzlegame.app-foundation-layout-release-43 C:\Users\UDAY\.gradle\caches\8.9\transforms\f8d218853a9442e3538bbd2f535f8e98\transformed\foundation-layout-release\res
+com.example.puzzlegame.app-ui-unit-release-44 C:\Users\UDAY\.gradle\caches\8.9\transforms\fb99ec5e024aeec48259c1eef0237aa0\transformed\ui-unit-release\res
+com.example.puzzlegame.app-resValues-45 P:\building games using ai\puzzle game\app\build\generated\res\resValues\debug
+com.example.puzzlegame.app-packageDebugResources-46 P:\building games using ai\puzzle game\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.puzzlegame.app-packageDebugResources-47 P:\building games using ai\puzzle game\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.puzzlegame.app-merged_res-48 P:\building games using ai\puzzle game\app\build\intermediates\merged_res\debug
+com.example.puzzlegame.app-debug-49 P:\building games using ai\puzzle game\app\src\debug\res
+com.example.puzzlegame.app-main-50 P:\building games using ai\puzzle game\app\src\main\res
